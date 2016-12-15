@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TorontoBikeData_FinalExam</string>
+    <string name="save">Save</string>
+    <string name="showOnMap">Show On Map</string>
+    <string name="title_activity_show_maps">Map</string>
+
+</resources>
